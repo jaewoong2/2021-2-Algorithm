@@ -29,15 +29,6 @@
   <component name="ChangeListManager">
     <list default="true" id="90dbe4c0-4c54-457d-a774-139dbb3ef801" name="디폴트 변경 목록" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RedBlackTree/RedBlackTree.h" beforeDir="false" afterPath="$PROJECT_DIR$/../RedBlackTree/RedBlackTree.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TopologySort/DALGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/../TopologySort/DALGraph.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TopologySort/Graph.h" beforeDir="false" afterPath="$PROJECT_DIR$/../TopologySort/Graph.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TopologySort/List.h" beforeDir="false" afterPath="$PROJECT_DIR$/../TopologySort/List.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TopologySort/UALGraph.h" beforeDir="false" afterPath="$PROJECT_DIR$/../TopologySort/UALGraph.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TopologySort/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../TopologySort/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree_v1/BinarySearchTree.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Tree_v1/BinarySearchTree.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree_v1/Tree.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Tree_v1/Tree.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree_v1/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Tree_v1/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,9 +55,9 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -80,6 +71,7 @@
       <updated>1633164108920</updated>
       <workItem from="1633164110516" duration="545000" />
       <workItem from="1633575437340" duration="182000" />
+      <workItem from="1635092824930" duration="46000" />
     </task>
     <servers />
   </component>
@@ -99,9 +91,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1633575615848">
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1635092864091">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1633575615848" />
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1635092864091" />
   </component>
 </project>
